@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <a href="https://autofelix.blog.csdn.net">
     <img src="https://img.shields.io/badge/CSDN Page View-125K-E65A65.svg" alt="" title="Python_AI的csdn" />
 </a>
+<a href="https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b"><img src="https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg" alt="Total time coded since Jan 4 2021" /></a>
  <br/>
 <br/>
 
@@ -52,7 +53,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 </p> 
 
 ![](https://raw.githubusercontent.com/shihuili1218/shihuili1218/output/github-snake.svg) 
-<!--![](https://raw.githubusercontent.com/yxn4065/yxn4065/output/github-snake.svg)-->
+
 
 ---
 
@@ -67,17 +68,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 ### 📊 WakaTime
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+[![wakatime](https://wakatime.com/badge/user/7cf3d334-b735-41ee-9f43-1782380b513b.svg)](https://wakatime.com/@7cf3d334-b735-41ee-9f43-1782380b513b)
 
 ---
 
