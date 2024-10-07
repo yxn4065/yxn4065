@@ -48,13 +48,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 ---
 
-
+<!-- 贪吃蛇 -->
 ![](https://raw.githubusercontent.com/yxn4065/yxn4065/refs/heads/output/github-contribution-grid-snake.svg)
 
 
 ### Skills
-<!-- 贪吃蛇 -->
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java,pytorch,git,raspberrypi,docker,vim,pycharm,mysql" />
@@ -79,7 +77,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" align="center" />
 </div>  
 <div align="center">
-<img width="800" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
+<img height="220" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
 </div>  
 
 ---
