@@ -72,13 +72,26 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 ---
 
 ### About My Github
-<div align="left">
-<img height='200' src="https://github-readme-stats.vercel.app/api?username=yxn4065&show_icons=true" align="center" />
-<img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" align="center" />
-</div>  
 <div align="center">
-<img height="220" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
-</div>  
+  <table style="width:100%;">
+    <tr>
+      <!-- 第一个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api?username=yxn4065&show_icons=true" />
+      </td>
+      <!-- 第二个图片 -->
+      <td align="center">
+        <img height='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=yxn4065&layout=compact" />
+      </td>
+    </tr>
+    <!-- 第三个图片 -->
+    <tr>
+      <td colspan="2" align="center">
+        <img height="220" src="https://github-readme-activity-graph.vercel.app/graph?username=yxn4065&theme=github-compact&hide_border=true&area=true" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -100,5 +113,5 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+<img width:100% src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
 </p>
