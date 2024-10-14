@@ -109,7 +109,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 > 📦 70.9 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2024
+> 🏆 22 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -144,23 +144,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 10 mins       █████████████████████████   99.25 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
-ObjectiveC               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   5 hrs 10 mins       █████████████████████████   99.25 % 
-CLion                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-download-manager         3 hrs 32 mins       █████████████████░░░░░░░░   67.67 % 
-MyLearn                  1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
-Isabellepinner           24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-xdm                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  5 hrs 13 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -176,7 +169,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2024 18:39:18 UTC
+ Last Updated on 14/10/2024 18:41:26 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
