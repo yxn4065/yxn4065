@@ -101,7 +101,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C488%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C489%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -144,19 +144,19 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 4 mins       █████████████████████████   99.56 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    13 hrs 24 mins      █████████████████████████   99.61 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Chrome                   12 hrs 4 mins       █████████████████████████   99.56 % 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Chrome                   13 hrs 24 mins      █████████████████████████   99.61 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-PythonCode5              12 hrs 1 min        █████████████████████████   99.07 % 
-MyLearn                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+PythonCode5              13 hrs 20 mins      █████████████████████████   99.16 % 
+MyLearn                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  12 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +172,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2024 18:42:10 UTC
+ Last Updated on 29/10/2024 18:42:21 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
