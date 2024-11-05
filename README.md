@@ -101,13 +101,15 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C506%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C512%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -142,18 +144,18 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 3 mins       █████████████████████████   99.61 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    23 hrs 20 mins      █████████████████████████   99.70 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 8 mins       █████████████████████████   100.00 % 
+Chrome                   23 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-src.next                 15 hrs 7 mins       █████████████████████░░░░   83.40 % 
-PythonCode5              3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+src.next                 21 hrs 43 mins      ███████████████████████░░   92.82 % 
+PythonCode5              1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
 
 💻 Operating System: 
-Windows                  18 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  23 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +171,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 04/11/2024 18:40:33 UTC
+ Last Updated on 05/11/2024 18:40:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
