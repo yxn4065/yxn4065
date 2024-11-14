@@ -109,6 +109,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 > 📦 70.8 kB Used in GitHub's Storage 
  > 
+> 🏆 22 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -142,16 +144,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs              █████████████████████████   100.00 % 
+Other                    9 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   10 hrs              █████████████████████████   100.00 % 
+Chrome                   9 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyLearn                  10 hrs              █████████████████████████   100.00 % 
+MyLearn                  9 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs              █████████████████████████   100.00 % 
+Windows                  9 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +169,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2024 18:40:45 UTC
+ Last Updated on 14/11/2024 18:42:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
