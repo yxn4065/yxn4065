@@ -101,15 +101,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C604%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -144,16 +142,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    27 hrs 8 mins       █████████████████████████   100.00 % 
+Other                    26 hrs 14 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   27 hrs 8 mins       █████████████████████████   100.00 % 
+Chrome                   26 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyLearn                  27 hrs 8 mins       █████████████████████████   100.00 % 
+MyLearn                  26 hrs 14 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  27 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  26 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +167,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2024 18:41:32 UTC
+ Last Updated on 08/12/2024 18:41:04 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
