@@ -109,6 +109,8 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 
 > 📦 70.9 kB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 7 Public Repositories 
@@ -167,7 +169,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2025 18:37:38 UTC
+ Last Updated on 19/01/2025 18:37:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
