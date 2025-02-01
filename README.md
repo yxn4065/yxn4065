@@ -101,9 +101,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C734%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C734%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
 **🐱 My GitHub Data** 
 
@@ -144,19 +144,19 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 20 mins       ████████████████████████░   96.70 % 
-C++                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Other                    7 hrs 11 mins       ████████████████████████░   97.08 % 
+C++                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 33 mins       █████████████████████████   100.00 % 
+Chrome                   7 hrs 24 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonCode5              4 hrs               ███████████████░░░░░░░░░░   61.23 % 
-assets                   1 hr 51 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-d2l-zh                   41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+PythonCode5              4 hrs               ██████████████░░░░░░░░░░░   54.17 % 
+assets                   2 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.61 % 
+d2l-zh                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -172,7 +172,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2025 18:39:26 UTC
+ Last Updated on 01/02/2025 18:37:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
