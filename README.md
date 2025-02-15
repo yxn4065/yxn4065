@@ -101,15 +101,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2035%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-33-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -117,52 +113,6 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                5 commits           ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌆 Daytime                8 commits           ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-🌃 Evening                22 commits          ███████████░░░░░░░░░░░░░░   45.83 % 
-🌙 Night                  13 commits          ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Tuesday                  10 commits          █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-Wednesday                18 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-Thursday                 6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 9 commits           █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Sunday                   1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   14 hrs 57 mins      █████████████████░░░░░░░░   67.28 % 
-Other                    6 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-Text                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-
-🔥 Editors: 
-PyCharm                  15 hrs 17 mins      █████████████████░░░░░░░░   68.81 % 
-Chrome                   6 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-
-🐱‍💻 Projects: 
-PythonCode5              22 hrs 3 mins       █████████████████████████   99.24 % 
-Unknown Project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-
-💻 Operating System: 
-Windows                  22 hrs 13 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -176,7 +126,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2025 18:40:32 UTC
+ Last Updated on 15/02/2025 18:37:30 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
