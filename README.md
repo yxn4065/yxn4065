@@ -103,13 +103,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C845%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-63-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -144,21 +142,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 57 mins       ███████████████████████░░   92.67 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-ObjectiveC               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-CMake                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    8 hrs 9 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   4 hrs 57 mins       ███████████████████████░░   92.67 % 
-CLion                    23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Chrome                   8 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyLearn                  4 hrs 47 mins       ██████████████████████░░░   89.54 % 
-RemoteCamera             33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+MyLearn                  8 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -174,7 +167,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2025 18:43:59 UTC
+ Last Updated on 20/03/2025 18:42:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
