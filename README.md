@@ -101,15 +101,13 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C855%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C854%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 70.9 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -144,18 +142,18 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 27 mins      █████████████████████████   99.13 % 
-C++                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    15 hrs 55 mins      █████████████████████████   99.15 % 
+C++                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 🔥 Editors: 
-Chrome                   15 hrs 34 mins      █████████████████████████   99.85 % 
+Chrome                   16 hrs 2 mins       █████████████████████████   99.85 % 
 CLion                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-MyLearn                  15 hrs 35 mins      █████████████████████████   100.00 % 
+MyLearn                  16 hrs 3 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -171,7 +169,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/03/2025 18:40:03 UTC
+ Last Updated on 23/03/2025 18:40:36 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
