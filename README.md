@@ -101,9 +101,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%2044%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 **🐱 My GitHub Data** 
 
@@ -144,32 +144,32 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 2 mins        █████████████████████████   100.00 % 
+Other                    6 hrs 41 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 2 mins        █████████████████████████   100.00 % 
+Chrome                   6 hrs 41 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MyLearn                  7 hrs 2 mins        █████████████████████████   100.00 % 
+MyLearn                  6 hrs 41 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   7 repos             ███████████████░░░░░░░░░░   58.33 % 
-C++                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   6 repos             ██████████████░░░░░░░░░░░   54.55 % 
+C++                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Vue                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 ```
 
 
 
 
- Last Updated on 05/04/2025 18:39:56 UTC
+ Last Updated on 06/04/2025 18:40:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
