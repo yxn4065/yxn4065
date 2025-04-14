@@ -101,9 +101,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=yxn4065&theme=transparent&hide_border=true&layout=compact&langs_count=20&range=last_30_days" />
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C897%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C903%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 **🐱 My GitHub Data** 
 
@@ -142,19 +142,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 38 mins      ████████████████████████░   96.44 % 
-Python                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Other                    24 hrs 12 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 38 mins      ████████████████████████░   96.44 % 
-PyCharm                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Chrome                   24 hrs 12 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonCode5              24 hrs 55 mins      ████████████████████████░   97.55 % 
-MyLearn                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+PythonCode5              24 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  25 hrs 32 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -170,7 +167,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2025 18:40:46 UTC
+ Last Updated on 14/04/2025 18:44:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
