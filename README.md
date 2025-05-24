@@ -103,7 +103,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/yxn4065/count.svg)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C953%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
 **🐱 My GitHub Data** 
 
@@ -142,16 +142,16 @@ Sunday                   1 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 44 mins       █████████████████████████   100.00 % 
+Other                    13 hrs 6 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 44 mins       █████████████████████████   100.00 % 
+Chrome                   13 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-PythonCode5              8 hrs 44 mins       █████████████████████████   100.00 % 
+PythonCode5              13 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -167,7 +167,7 @@ Vue                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2025 18:45:24 UTC
+ Last Updated on 24/05/2025 18:42:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![](https://github-readme-activity-graph.cyclic.app/graph?username=yxn4065) -->
